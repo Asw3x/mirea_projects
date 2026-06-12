@@ -1,0 +1,14 @@
+# User data and uploads
+user_photos/
+bot_data.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Scratch files
+Untitled*.txt
